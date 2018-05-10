@@ -6,6 +6,8 @@ import ExampleWork from './example-work';
 const myWork = [
   {
     title: "CoolPal",
+    href: "https:/example.com",
+    desc: "CLICK ME",
     image: {
       desc: "coolpal a library for building bots for discord",
       src: "images/example1.png",
@@ -14,6 +16,8 @@ const myWork = [
   },
   {
     title: "YourPal",
+    href: "https:/example.com",
+    desc: "CLICK ME",
     image: {
       desc: "yourpal hosted discord bot",
       src: "./images/example2.png",
@@ -22,6 +26,8 @@ const myWork = [
   },
   {
     title: "Professional Portfolio",
+    href: "https:/example.com",
+    desc: "CLICK ME",
     image: {
       desc: "professional portfolio",
       src: "./images/example3.png",
