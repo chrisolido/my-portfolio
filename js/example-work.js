@@ -15,7 +15,7 @@ export default class ExampleWork extends React.Component {
   }
 }
 
-class ExampleWorkBubble extends React.Component {
+export class ExampleWorkBubble extends React.Component {
   render() {
     let example = this.props.example;
     return (
